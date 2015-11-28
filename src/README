@@ -1,7 +1,0 @@
-Artic - RSA Cryptography Demo
-
-I wrote this code for my undergraduate Discrete Mathematics assignment a few years ago. It demonstrate sending and receiving files from two computers connected in a network. The sent files are encrypted using RSA.
-
-I can't remember the details for compiling and running the program since it's a long time ago (I even used two spaces indentation in this code!!!).
-
-This program contains an easter egg.
